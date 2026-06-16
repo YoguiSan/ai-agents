@@ -1,5 +1,7 @@
 {
   "conventionalCommits.scopes": [
-    "AI assistants"
-  ]
+    "AI assistants",
+    "Perplexity skills",
+    "Perplexity instructions"
+   ]
 }
